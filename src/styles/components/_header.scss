@@ -40,5 +40,13 @@
         }
       }
     }
+    @media (max-width: 700px) {
+      margin-top: 50px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+  @media (max-width: 700px) {
+    margin-bottom: 40px;
   }
 }
