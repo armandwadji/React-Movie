@@ -20,7 +20,7 @@ Nous avons aussi la possibilité d'enregistrer nos flms favoris.
 - [git][git]
 - [NodeJS][node]
 - [npm][npm]
-- [key] [TMDB] : créer un compte pour avoir une API_KEY d'identification
+- [key][TMDB] : créer un compte pour avoir une API_KEY d'identification
 
 ## Installation
 Après avoir installé les configurations du projet, vous pouvez executer cette commande pour installer le projet en local su votre machine :
