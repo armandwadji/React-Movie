@@ -41,6 +41,12 @@ Une fois les dependances correctement installer, lancer enfin le projet grâce �
 npm start
 ```
 
+<p align="right">Back to top : 
+  <a href="#top">
+    ☝
+  </a>
+</p>
+
 <h1 align="center">Bon Code 🖥 💻 📱</h1>
 
 <!-- prettier-ignore-start -->
